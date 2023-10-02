@@ -29,11 +29,11 @@ Add  environment variables to your .env file
 
 To run streamlit in colab.Run the last cell
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/screenshot 1.png)
 
 Copy the highlighted ipv4 address and open the last link from the output
 
-![Screenshot 2](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot 1.png)
 
 paste the copied address, remove the port number and press submit
 ## How to use

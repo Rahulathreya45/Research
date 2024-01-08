@@ -27,7 +27,8 @@ Add  environment variables to your .env file
 
 `OPENAI_API_KEY='your api key'`
 
-To run streamlit in colab.Run the last cell
+To run streamlit in colab.
+Run the last cell
 
 ![Screenshot 1](screenshots/Screenshot_1.png)
 
